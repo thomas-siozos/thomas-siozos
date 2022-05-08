@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thomas-siozos.
 - :computer: I'm currently working on P&I Hellas.
-- 🌱 I’m currently learning React.
 
 <!---
 thomas-siozos/thomas-siozos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

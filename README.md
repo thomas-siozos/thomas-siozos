@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomas-siozos.
-- :computer: I'm currently working on P&I Hellas.
+- :computer: I'm currently working on Profile Software.
 
 <!---
 thomas-siozos/thomas-siozos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
